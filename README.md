@@ -5,7 +5,7 @@
 - 💼 Marketing Analyst at **Walmart** (retail media, e-commerce); previously Data Analyst at **Capgemini**
 - 🎓 MS Computer Science, University of Alabama at Birmingham
 - 🔎 Open to **Data Analyst / Marketing Data Analyst / Business Analyst** roles
-- 🌐 Portfolio: https://gaganasindhu-matti.github.io
+- 🌐 Portfolio: https://mattigaganasindhu-gsm.github.io
 - 📫 matti.gaganasindhu9@gmail.com · [LinkedIn](https://www.linkedin.com/in/gaganasindhu-matti/)
 
 #### Tools
