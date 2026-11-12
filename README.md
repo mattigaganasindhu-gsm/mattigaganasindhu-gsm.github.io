@@ -14,4 +14,7 @@
 #### Featured projects
 | Project | What it shows |
 |---|---|
-| [GA4 e-commerce funnel & channel analysis](https://github.com/gaganasindhu-matti/ga4-ecommerce-funnel-analysis) | BigQuery SQL, funnel analysis, channel performance, Looker Studio |
+| [GA4 e-commerce funnel & channel analysis](https://github.com/mattigaganasindhu-gsm/ga4-ecommerce-funnel-analysis) | BigQuery SQL, funnel analysis, channel performance, Looker Studio |
+| [Customer segmentation & retention](https://github.com/mattigaganasindhu-gsm/customer-segmentation-retention) | RFM, K-means clustering, cohort retention (SQL + Python) |
+| [Weekly sales demand forecasting](https://github.com/mattigaganasindhu-gsm/sales-demand-forecasting) | Prophet vs. baselines, holdout testing, MAPE |
+| [Marketing A/B test](https://github.com/mattigaganasindhu-gsm/marketing-ab-test) | Z-test, confidence intervals, power analysis, business impact |
